@@ -5,4 +5,6 @@ This is the pinteresting sample application for
 
 by [Micah Crossley](http://www.t3designs.com)
 
-Click on my name to see the site that I had previously built. This was build in Ruby however, I used the GUI options provided by the site builder. 
+Working through the [One Month Rails Course](http://onemonthrails.com)
+
+This is an edit made to readme file so that I can get familiar pushing changes to [GitHub](http://github.com)
