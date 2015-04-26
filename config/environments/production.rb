@@ -76,4 +76,8 @@ Rails.application.configure do
 
   # Do not dump schema after migrations.
   config.active_record.dump_schema_after_migration = false
+  
+  config.action_mailer.default_url_options = { :host => 'app.t3designs.com' }
+  # Required for Heroku
+  # Note to set this to our own domain name
 end
